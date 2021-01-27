@@ -1,0 +1,82 @@
+.container{
+    Width: 100%;
+}
+
+.heading{
+    background-color: #222222;
+    Height: 75px;
+    border: 1px black;
+    position: relative;
+}
+
+.pic_logo{
+    position: absolute;
+    left: 14%;
+    top: 18px;
+}
+
+.pic_search{
+    position: absolute;
+    left: 20%;
+    top: 28px;
+}
+
+.pic_menu{
+    position: absolute;
+    left: 75%;
+    top: 30px;
+}
+
+.pic_profile{
+    position: absolute;
+    left: 79%;
+    top: 26px;
+}
+
+.pic_basket{
+    position: absolute;
+    left: 83%;
+    top: 26px;
+}
+
+.main{
+    background-color: #F1E4E6;
+    display: flex;
+    height: 764px;
+}
+
+.main_slogan{
+    margin-top: 290px;
+    margin-bottom: 381px;
+    display: flex;
+    width: 377px;
+    height: 93px;
+}
+
+.main_line{
+    margin-top: 290px;
+    margin-bottom: 381px;
+    margin-right: 16px;
+    min-width: 12px;
+    min-height: 92px;
+    background-color: #F16D7F;
+}
+
+.main_text{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 32px;
+    color: #222222;
+    margin: 0;
+    text-align: left;
+}
+
+.text_capital{
+    font-size: px;
+}
+
+.text_accent{
+    color: #F16D7F;;
+}
